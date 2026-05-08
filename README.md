@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
- # Hi Peeps, I am Adhil Bin Nadeer
+ # Hi, I am Adhil Bin Nadeer
 
 
 I'm a passionate tech enthusiast currently pursuing a B-Tech in Computer Science and Engineering. My journey in the world of technology has been fueled by a relentless curiosity and a love for learning.I love to assist my peers with their tech challenges and enjoy collaborative learning. I believe that sharing knowledge is a powerful way to grow and innovate together.
